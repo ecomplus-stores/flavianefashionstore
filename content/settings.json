@@ -4,6 +4,7 @@
   "domain": "flavianefashionstore.netlify.app",
   "short_name": "flaviane-fashion-store",
   "description": "Roupas flaviane fashion store",
+  "repository": "ecomplus-stores/flavianefashionstore",
   "primary_color": "#222831",
   "secondary_color": "#393e46",
   "bg_color": "#ffffff",
