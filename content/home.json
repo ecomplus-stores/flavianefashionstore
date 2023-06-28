@@ -9,16 +9,15 @@
         {
           "start": "2023-06-01T11:59:12.715Z",
           "end": "",
-          "mobile_img": "/img/uploads/site-4_easy-resize.com-1-.jpg",
-          "img": "/img/uploads/sintonia-3.jpg",
-          "link": "https://cristianeresende.com.br/colecao-sintonia"
+          "mobile_img": "/img/uploads/desconto-especial.jpg",
+          "img": "/img/uploads/novo.png",
+          "link": ""
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/sintonia-4.jpg",
-          "link": "https://cristianeresende.com.br/linha-angel",
-          "mobile_img": "/img/uploads/sintonia-2.jpg"
+          "img": "/img/uploads/novo-4-.png",
+          "mobile_img": "/img/uploads/desconto-especial-1-.jpg"
         }
       ],
       "full_width": true
@@ -27,20 +26,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/sintonia-6_easy-resize.com.jpg",
-          "alt": "Vestidos Fluídos",
-          "link": "https://cristianeresende.com.br/vestidos-fluidos"
+          "img": "/img/uploads/charlie-katie-are-3-.png",
+          "alt": "Conjuntos",
+          "link": "https://griffechick.com.br/conjuntos"
         },
         {
-          "img": "/img/uploads/sintonia-7_easy-resize.com.jpg",
-          "alt": "Vestidos Justos",
-          "link": "https://cristianeresende.com.br/vestidos-justos",
+          "img": "/img/uploads/charlie-katie-are-2-.png",
+          "alt": "Vestido Fluídos",
+          "link": "https://griffechick.com.br/vestidos-fluidos",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/sintonia-5_easy-resize.com.jpg",
-          "alt": "Todos os Vestidos",
-          "link": "https://cristianeresende.com.br/todos-os-vestidos"
+          "img": "/img/uploads/charlie-katie-are-4-.png",
+          "alt": "Saias e Blusas",
+          "link": "https://griffechick.com.br/saias"
         }
       ]
     },
