@@ -9,15 +9,16 @@
         {
           "start": "2023-06-01T11:59:12.715Z",
           "end": "",
-          "mobile_img": "/img/uploads/desconto-especial.jpg",
-          "img": "/img/uploads/novo.png",
-          "link": ""
+          "mobile_img": "",
+          "img": "/img/uploads/1.png",
+          "link": "https://flavianefashionstore.com.br/search?term="
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/novo-4-.png",
-          "mobile_img": "/img/uploads/desconto-especial-1-.jpg"
+          "img": "/img/uploads/2.png",
+          "mobile_img": "",
+          "link": "https://flavianefashionstore.com.br/search?term="
         }
       ],
       "full_width": true
