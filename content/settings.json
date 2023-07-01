@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "repository": "ecomplus-stores/flavianefashionstore",
   "logo": "/img/uploads/flaviane-fashion-fundo-preto-photoroom.png-photoroom.png",
   "name": "Flaviane Fashion Store",
@@ -15,12 +15,12 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Outfit",
-  "favicon": "/img/uploads/logo-flaviane.png",
+  "favicon": "/img/uploads/flaviane-fashion-fundo-preto.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/logo-flaviane.png",
+  "icon": "/img/uploads/flaviane-fashion-fundo-preto.png",
   "store_id": 51407,
   "description": "Flaviane Fashion Store nasceu em 2009 inspirada na beleza e no encanto de cada mulher, única e sonhadora. Resguardamos valores que qualificam a mulher moderna e exigente no vestir. Agregamos detalhes e um estilo que encanta e aprimoramos na essência um produto que reflete a beleza feminina.",
-  "large_icon": "/img/uploads/logo-flaviane.png"
+  "large_icon": "/img/uploads/flaviane-fashion-fundo-preto.png"
 }
