@@ -27,20 +27,20 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/charlie-katie-are-3-.png",
+          "img": "/img/uploads/3.png",
           "alt": "Conjuntos",
-          "link": "https://griffechick.com.br/conjuntos"
+          "link": "https://flavianefashionstore.com.br/conjuntos"
         },
         {
-          "img": "/img/uploads/charlie-katie-are-2-.png",
+          "img": "/img/uploads/2.png",
           "alt": "Vestido Fluídos",
-          "link": "https://griffechick.com.br/vestidos-fluidos",
+          "link": "https://flavianefashionstore.com.br/vestidos-fluidos",
           "mobile_img": ""
         },
         {
-          "img": "/img/uploads/charlie-katie-are-4-.png",
+          "img": "/img/uploads/1.png",
           "alt": "Saias e Blusas",
-          "link": "https://griffechick.com.br/saias"
+          "link": "https://flavianefashionstore.com.br/saias"
         }
       ]
     },
