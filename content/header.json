@@ -10,7 +10,11 @@
   },
   "categories_list": {
     "featured": [
-      "/tata-martello?TATA MARTELLO"
+      "/conjuntos?Conjuntos",
+      "/vestidos?Vestidos",
+      "/casacos?Casacos",
+      "/saias?Saias",
+      "/blusas?Blusas"
     ],
     "random": 5,
     "full_width": true
