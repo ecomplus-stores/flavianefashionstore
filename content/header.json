@@ -10,9 +10,9 @@
   },
   "categories_list": {
     "featured": [
-      "/conjuntos?Conjuntos",
       "/vestidos?Vestidos",
       "/casacos?Casacos",
+      "/conjuntos?Conjuntos",
       "/saias?Saias",
       "/blusas?Blusas"
     ],
